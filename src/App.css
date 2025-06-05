@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme: {
+    colors: {
+        primary: '#875739',
+        beige: '#FAF6F2',
+        tan: '#EBDACF',
+        textdark: '#1A1A1A',
+        subtext: '#666666',
+        cream: '#F6E5DA',
+        gold: '#C1A27D',
+    }
+}
+
